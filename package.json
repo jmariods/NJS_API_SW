@@ -1,0 +1,23 @@
+{
+  "name": "njs_api_sw",
+  "version": "1.0.0",
+  "description": "Reto Tata Consulting - Integración con API SW Externa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmariods/NJS_API.git"
+  },
+  "author": "Mario Jesús Omhar Díaz Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmariods/NJS_API/issues"
+  },
+  "homepage": "https://github.com/jmariods/NJS_API#readme",
+  "dependencies": {
+    "aws-sdk": "^2.834.0",
+    "node-fetch": "^2.6.1"
+  }
+}
